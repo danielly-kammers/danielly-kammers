@@ -34,4 +34,7 @@ Experience with:
   <img align="center" alt="Figma" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
 
-> Não estranhe os commits de projetos em datas próximos perdi meu antigo perfil.
+<br>
+<br>
+
+> Não estranhe os commits de projetos em datas próximas, perdi meu antigo perfil.
