@@ -33,8 +33,3 @@ Experience with:
   <img align="center" alt="Photoshop" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Figma" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
-
-<br>
-<br>
-
-> Não estranhe os commits de projetos em datas próximas, perdi meu antigo perfil.
